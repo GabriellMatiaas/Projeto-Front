@@ -1,0 +1,98 @@
+
+mark {
+    background-color: rgb(251, 253, 253);
+}
+
+body {
+background-color: rgb(255, 255, 255);
+} 
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #F2B705;
+  color: #fdfdfc;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  color: #fcfafa;
+  text-decoration: none;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  margin-right: 40px;
+  margin-bottom: 40px;
+  flex: 1 1 300px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 24px;
+  margin-bottom: 10px; 
+  }
+
+
+p {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+span {
+  font-size: 24px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 20px;
+}
+
+button {
+    background-color: #F2B705;
+    color: #fdfcfc;
+}
+
+form {
+    text-align: center;
+}
