@@ -98,7 +98,13 @@ form {
 }
 
 @media only screen and (max-width:600px) {
-  body {
-    background-color: aqua;
+  .container {
+    width: 100%;
+    padding: 0 10px;
   }
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
 }
