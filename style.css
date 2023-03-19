@@ -96,3 +96,8 @@ button {
 form {
     text-align: center;
 }
+
+button a {
+  color: #fcfafa;
+  text-decoration: none;
+}
