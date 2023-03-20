@@ -1,7 +1,7 @@
 
 mark {
     background-color: rgb(251, 253, 253); 
-}
+} 
 
 body {
 background-color: rgb(255, 255, 255);  
@@ -32,7 +32,7 @@ nav li {
 
 nav a {
   color: #fcfafa;
-  text-decoration: none; 
+  text-decoration: none;  
 }
 
 main {
@@ -94,6 +94,15 @@ button {
 }
 
 button a {
+  color: #fcfafa;
+  text-decoration: none;
+} 
+
+form {
+    text-align: center;
+}
+
+button a { 
   color: #fcfafa;
   text-decoration: none;
 }
